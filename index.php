@@ -1,3 +1,3 @@
 <?php    
-header('Location: bootstrap/docs/site/home.php');    
+header('Location: 1/site/home.php');    
 ?>
